@@ -1,0 +1,2 @@
+ipyevents
+pymupdf
